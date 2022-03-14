@@ -1,5 +1,5 @@
 # Toggle-Switch
-An Awesome Toggle Switch Library For Your Apps!
+**An Awesome Toggle Switch Library For Your Apps!**
 
 <br>
 
@@ -9,4 +9,9 @@ An Awesome Toggle Switch Library For Your Apps!
 ```html
 <script src="https://cdn.jsdelivr.net/gh/sancho1952007/toggle-switch@1.0/lib/main.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sancho1952007/toggle-switch@1.0/lib/style.min.css">
+```
+
+**Import The Latest Version**
+```html
+<script src="https://sancho1952007.github.io/Toggle-Switch/lib/main.min.js"></script>
 ```

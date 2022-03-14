@@ -38,7 +38,7 @@
 ```html
 <div class="toggle-switch" state='off'></div>
 ```
-*Note:- You Can Even Remove The State Attribute If You Want The Slider To Be Off By Default...*
+***Note:- You Can Even Remove The State Attribute If You Want The Slider To Be Off By Default...***
 
 <br>
 

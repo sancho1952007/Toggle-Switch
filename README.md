@@ -1,4 +1,4 @@
-# Toggle-Switch
+# [Toggle-Switch](https://sancho1952007.github.io/Toggle-Switch)
 **An Awesome Toggle Switch Library For Your Apps!**
 
 <br>

@@ -21,6 +21,15 @@
 
 <br>
 
+# How To Implement It
+```html
+<div class="toggle-switch"></div>
+```
+
+
+
+<br>
+
 # How To Style/Position The Toggle Switch?
 ```css
 .toggle-switch{

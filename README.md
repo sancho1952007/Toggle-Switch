@@ -11,7 +11,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sancho1952007/toggle-switch@1.0/lib/style.min.css">
 ```
 
+<br>
+
 **Import The Latest Version**
 ```html
 <script src="https://sancho1952007.github.io/Toggle-Switch/lib/main.min.js"></script>
+<link rel="stylesheet" href="https://sancho1952007.github.io/Toggle-Switch/lib/style.min.css">
 ```

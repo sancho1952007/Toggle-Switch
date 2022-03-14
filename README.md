@@ -18,3 +18,18 @@
 <script src="https://sancho1952007.github.io/Toggle-Switch/lib/main.min.js"></script>
 <link rel="stylesheet" href="https://sancho1952007.github.io/Toggle-Switch/lib/style.min.css">
 ```
+
+<br>
+
+# How To Style/Position The Toggle Switch?
+```css
+.toggle-switch{
+    /* Your Styling/Positioning Here */
+    
+    /* Example*/
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+```

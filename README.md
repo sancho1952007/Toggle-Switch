@@ -13,7 +13,7 @@
 
 <br>
 
-**Import The Latest Version**
+**Import The Latest Version** :-
 ```html
 <script src="https://sancho1952007.github.io/Toggle-Switch/lib/main.min.js"></script>
 <link rel="stylesheet" href="https://sancho1952007.github.io/Toggle-Switch/lib/style.min.css">

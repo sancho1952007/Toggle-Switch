@@ -23,20 +23,26 @@
 
 # How To Implement It
 ```html
-<div class="toggle-switch"></div>
+<div class="toggle-switch">
+    <label></label>
+</div>
 ```
 
 # How To Implement It With A Specific State (On/Off)
 **On** :-
 ```html
-<div class="toggle-switch" state='on'></div>
+<div class="toggle-switch" state='on'>
+    <label></label>
+</div>
 ```
 
 <br>
 
 **Off** :-
 ```html
-<div class="toggle-switch" state='off'></div>
+<div class="toggle-switch" state='off'>
+    <label></label>
+</div>
 ```
 ***Note:- You Can Even Remove The State Attribute If You Want The Slider To Be Off By Default...***
 
